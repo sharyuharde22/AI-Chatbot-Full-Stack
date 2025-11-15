@@ -16,3 +16,6 @@ This project demonstrates full-stack integration between a Python backend and a 
 **Backend:** Python (Flask)  
 **AI Model:** ChatGPT API (optional)  
 **Environment:** Virtualenv (venv)
+
+NOTE :
+!! Everything is showed and saved under SH_DEV branch !!
